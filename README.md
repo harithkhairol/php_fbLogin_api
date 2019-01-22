@@ -1,4 +1,3 @@
-# php_fbLogin_api
 Login with facebook on website using php
 
 Important Notes:
