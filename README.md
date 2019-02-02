@@ -16,6 +16,8 @@ Important Notes:
 5) It is compulsory to add your facebook callback page at=
    Facebook Developers -> Project -> Facebook Login -> Settings -> Valid OAuth Redirect URIs
    
-6) Make sure to get https if your website is live to use Facebook API.
+6) Change the redirectUrl in login.php according to your project.
+   
+7) Make sure to get https if your website is live to use Facebook API.
 
-7) If you get error such as 505 after you use login with facebook in your live website, try to set your timezone in your website (This happens to me and it works after i set the timezone :D)
+8) If you get error such as 505 after you use login with facebook in your live website, try to set your timezone in your website (This happens to me and it works after i set the timezone :D)
